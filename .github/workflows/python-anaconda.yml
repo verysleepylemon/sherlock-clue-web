@@ -1,0 +1,67 @@
+name: Python Package (Anaconda)
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - '**/*.py'
+      - 'pyproject.toml'
+      - 'tox.ini'
+      - '.github/workflows/python-anaconda.yml'
+  pull_request:
+    branches: [ master ]
+    paths:
+      - '**/*.py'
+      - 'pyproject.toml'
+      - 'tox.ini'
+      - '.github/workflows/python-anaconda.yml'
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python-version: ['3.10', '3.11', '3.12', '3.13']
+
+    defaults:
+      run:
+        shell: bash -el {0}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          auto-update-conda: true
+          python-version: ${{ matrix.python-version }}
+          activate-environment: sherlock-test
+          channels: conda-forge,defaults
+
+      - name: Install conda dependencies
+        run: |
+          conda install -y pip setuptools wheel
+          conda install -y requests pandas openpyxl
+
+      - name: Install package
+        run: |
+          pip install -e .
+
+      - name: Install test dependencies
+        run: |
+          pip install pytest jsonschema rstr coverage
+
+      - name: Run tests with coverage
+        run: |
+          coverage run --source=sherlock_project -m pytest -v -m "not online" --tb=short
+          coverage report --show-missing --fail-under=50
+
+      - name: Verify CLI entry point
+        run: |
+          sherlock --version
+
+      - name: Verify investigate.py loads
+        run: |
+          python investigate.py --help
