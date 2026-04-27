@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Clue Web | Sherlock OSINT Board</title>
+    <meta
+      name="description"
+      content="Clue Web is a visual OSINT investigation platform that maps identity signals into a living, interactive board."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="brand" href="#overview">
+          <span class="sigil" aria-hidden="true"></span>
+          <span>Clue Web</span>
+        </a>
+        <nav class="nav-links">
+          <a href="#overview">Overview</a>
+          <a href="#board">Board</a>
+          <a href="#features">Features</a>
+          <a href="#ethics">Ethics</a>
+          <a href="#toolkit">Toolkit</a>
+          <a href="#docs">Docs</a>
+        </nav>
+        <a class="btn btn-ghost" href="https://github.com/verysleepylemon/sherlock-clue-web">GitHub</a>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <section class="hero" id="overview">
+        <div class="container hero-grid">
+          <div class="reveal">
+            <h1>Clue Web: a living OSINT board for identity mapping.</h1>
+            <p>
+              Sherlock Clue Web turns open-source intelligence into a cinematic investigation surface. It
+              distills thousands of platform checks into a clear, visual web of signals, links, and evidence
+              for authorized security research.
+            </p>
+            <div class="hero-actions">
+              <a class="btn" href="#board">See the board</a>
+              <a class="btn btn-ghost" href="#docs">Read the docs</a>
+            </div>
+            <div class="hero-badges">
+              <span class="badge">3000+ platform checks</span>
+              <span class="badge">Auto profile parsing</span>
+              <span class="badge">Physics-based graph</span>
+            </div>
+            <div class="metrics">
+              <div class="metric">
+                <span>Signal sources</span>
+                <strong>3000+</strong>
+              </div>
+              <div class="metric">
+                <span>Graph layers</span>
+                <strong>5</strong>
+              </div>
+              <div class="metric">
+                <span>Modes</span>
+                <strong>Investigate</strong>
+              </div>
+            </div>
+          </div>
+          <div class="hero-visual reveal">
+            <img
+              src="assets/clue_web_ui.png"
+              alt="Clue Web investigation board"
+              width="1200"
+              height="700"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="board">
+        <div class="container split">
+          <div class="panel reveal">
+            <h2 class="section-title">The board is the story.</h2>
+            <p>
+              Every site, alias, and profile becomes a node. Connections pulse, break, and reform as the
+              investigation evolves. The web is built to surface the important signals fast without losing
+              the raw evidence.
+            </p>
+            <div class="list">
+              <div class="list-item">Live search filter with instant dimming</div>
+              <div class="list-item">Context panel with profile metadata and evidence</div>
+              <div class="list-item">Zoom, drag, and re-cluster nodes on demand</div>
+            </div>
+          </div>
+          <div class="panel reveal">
+            <img
+              src="assets/banner.png"
+              alt="Clue Web banner"
+              width="1200"
+              height="300"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="features">
+        <div class="container">
+          <h2 class="section-title reveal">Signal stack</h2>
+          <div class="card-grid">
+            <div class="panel reveal">
+              <h3>Profile extraction</h3>
+              <p>Pulls names, bios, avatars, and linked accounts into a single investigation timeline.</p>
+            </div>
+            <div class="panel reveal">
+              <h3>Variation engine</h3>
+              <p>Generates alias permutations and checks them across the full site catalog.</p>
+            </div>
+            <div class="panel reveal">
+              <h3>Evidence export</h3>
+              <p>Collect URLs and metadata into a ready-to-share evidence bundle.</p>
+            </div>
+            <div class="panel reveal">
+              <h3>Interactive physics</h3>
+              <p>Nodes drift and reconnect to surface clusters and anomalies visually.</p>
+            </div>
+            <div class="panel reveal">
+              <h3>Gallery view</h3>
+              <p>Scan images and bios at a glance without losing the graph context.</p>
+            </div>
+            <div class="panel reveal">
+              <h3>Research mode</h3>
+              <p>Designed for authorized security research, brand monitoring, and digital footprint review.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="terminal">
+        <div class="container split">
+          <div class="panel reveal">
+            <h2 class="section-title">Command line, visual result</h2>
+            <p>
+              Run the investigation locally, then open the board in the browser for the full interactive
+              analysis. Keep the terminal for raw logs and evidence.
+            </p>
+            <div class="code-block">
+              python investigate.py "target_username" --max-variations 6
+            </div>
+            <p class="kit">
+              Use only on accounts or targets you have explicit permission to research.
+            </p>
+          </div>
+          <div class="panel reveal">
+            <img
+              src="assets/demo_terminal.gif"
+              alt="Terminal demo"
+              width="780"
+              height="520"
+              loading="lazy"
+              decoding="async"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="ethics">
+        <div class="container split">
+          <div class="panel reveal">
+            <h2 class="section-title">Ethical use first</h2>
+            <p>
+              Clue Web is built for authorized OSINT investigations, security research, and incident response.
+              Never use it for harassment, unauthorized targeting, or privacy violations.
+            </p>
+          </div>
+          <div class="panel reveal">
+            <h3>Safety guardrails</h3>
+            <div class="list">
+              <div class="list-item">Use only on assets and identities you are authorized to investigate.</div>
+              <div class="list-item">Record findings responsibly and respect platform policies.</div>
+              <div class="list-item">Treat output as intelligence, not proof.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="toolkit">
+        <div class="container split">
+          <div class="panel reveal">
+            <h2 class="section-title">Toolchain alignment</h2>
+            <p>
+              This project pairs Sherlock and Clue Web with a broader, curated security toolkit for research
+              environments. One of the most popular catalogs is maintained here:
+            </p>
+            <p class="kit">
+              <a href="https://github.com/Z4nzu/hackingtool" target="_blank" rel="noopener noreferrer">
+                Z4nzu/hackingtool
+              </a>
+            </p>
+            <p class="kit">Use responsibly and follow local laws and authorization requirements.</p>
+          </div>
+          <div class="panel reveal">
+            <h3>Where Clue Web fits</h3>
+            <div class="list">
+              <div class="list-item">Signal discovery and identity mapping</div>
+              <div class="list-item">Evidence packaging for investigations</div>
+              <div class="list-item">Visual briefing for analysts and responders</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="docs">
+        <div class="container split">
+          <div class="panel reveal">
+            <h2 class="section-title">Documentation</h2>
+            <p>Explore the deeper guides and system breakdowns in the repo wiki.</p>
+            <div class="hero-actions">
+              <a class="btn" href="https://github.com/verysleepylemon/sherlock-clue-web/wiki">Open wiki</a>
+              <a class="btn btn-ghost" href="https://github.com/verysleepylemon/sherlock-clue-web">Repo home</a>
+            </div>
+          </div>
+          <div class="panel reveal">
+            <h3>Repo assets</h3>
+            <div class="list">
+              <div class="list-item">docs/README.md for standard usage notes</div>
+              <div class="list-item">assets/ for product imagery and demos</div>
+              <div class="list-item">tests/ for validation and regression checks</div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>Clue Web is an OSINT visualization layer for Sherlock. MIT licensed. Built for authorized research.</p>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
