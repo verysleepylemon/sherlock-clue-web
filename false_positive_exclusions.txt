@@ -10,9 +10,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LiveJournal
 LushStories
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -27,6 +26,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -35,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
