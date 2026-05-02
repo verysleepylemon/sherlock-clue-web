@@ -4,16 +4,18 @@ Airliners
 Apple Discussions
 Archive.org
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
+Flipboard
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
+LiveJournal
 LushStories
-Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
