@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -11,7 +12,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,6 +25,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -30,7 +34,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
