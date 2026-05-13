@@ -4,7 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -13,8 +12,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Motherless
-OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -39,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
