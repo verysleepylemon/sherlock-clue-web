@@ -4,18 +4,15 @@ Airliners
 Apple Discussions
 Archive.org
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
-Minecraft
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,7 +23,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
