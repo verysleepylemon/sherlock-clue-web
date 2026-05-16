@@ -12,7 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -20,7 +20,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
