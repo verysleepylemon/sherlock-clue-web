@@ -1,7 +1,6 @@
 7Cups
 APClips
 Airliners
-AllMyLinks
 Apple Discussions
 Archive.org
 Codolio
@@ -9,13 +8,11 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,14 +27,13 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
