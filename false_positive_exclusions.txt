@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -12,9 +13,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
+OurDJTalk
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +31,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wix
 YandexMusic
 authorSTREAM
 dailykos
