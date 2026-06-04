@@ -1,6 +1,7 @@
 7Cups
 APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 Codolio
@@ -11,10 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -40,4 +38,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
