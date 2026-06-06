@@ -5,19 +5,19 @@ Apple Developer
 Apple Discussions
 Archive.org
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
-ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -25,10 +25,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -37,5 +35,4 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
