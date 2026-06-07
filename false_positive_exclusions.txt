@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,7 +14,9 @@ Hubski
 LessWrong
 LushStories
 Minecraft
+OurDJTalk
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,6 +28,8 @@ SlideShare
 Smule
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -35,4 +40,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
