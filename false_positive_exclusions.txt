@@ -13,7 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
+LushStories
 Patched
 Pornhub
 Rarible
@@ -27,7 +27,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -41,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
