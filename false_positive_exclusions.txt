@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+CGTrader
 Codolio
 Cults3D
 DeviantArt
@@ -38,6 +39,4 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
-xHamster
