@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Codolio
 Cults3D
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -15,8 +14,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+OurDJTalk
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,12 +23,11 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -42,5 +40,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
-xHamster
