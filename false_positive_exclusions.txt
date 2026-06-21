@@ -7,17 +7,15 @@ Archive.org
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Odysee
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,6 +27,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -42,4 +41,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
