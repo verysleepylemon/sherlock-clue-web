@@ -7,13 +7,13 @@ Archive.org
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Rarible
@@ -40,4 +40,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
