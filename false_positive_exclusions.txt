@@ -1,11 +1,11 @@
 7Cups
 APClips
 Airliners
+All Things Worn
 Apple Developer
 Apple Discussions
 Archive.org
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -14,9 +14,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,7 +28,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
