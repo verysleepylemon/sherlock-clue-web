@@ -5,7 +5,10 @@ All Things Worn
 Apple Developer
 Apple Discussions
 Archive.org
+BreachSta.rs Forum
+Carbonmade
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,10 +16,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
 Minecraft
 Odysee
+PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -24,12 +28,11 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
