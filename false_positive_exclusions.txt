@@ -6,7 +6,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 BreachSta.rs Forum
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -16,7 +15,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
+LushStories
 Odysee
 PCGamer
 Patched
@@ -39,6 +38,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
