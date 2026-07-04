@@ -1,24 +1,24 @@
 7Cups
 APClips
 Airliners
-All Things Worn
 Apple Developer
 Apple Discussions
 Archive.org
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,22 +26,22 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
