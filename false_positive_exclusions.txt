@@ -6,6 +6,8 @@ Apple Discussions
 Archive.org
 BreachSta.rs Forum
 Codolio
+Cracked Forum
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -14,10 +16,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -30,6 +31,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -42,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
