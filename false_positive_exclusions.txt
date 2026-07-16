@@ -5,18 +5,23 @@ Apple Developer
 Apple Discussions
 Archive.org
 BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -25,6 +30,7 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -42,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
