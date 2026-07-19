@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -15,9 +14,9 @@ Hubski
 LessWrong
 LushStories
 Odysee
+Outgress
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
