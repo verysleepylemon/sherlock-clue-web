@@ -3,18 +3,19 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
 Odysee
-Outgress
 PCGamer
 Patched
 Rarible
@@ -26,8 +27,10 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
