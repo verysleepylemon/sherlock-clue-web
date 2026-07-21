@@ -4,13 +4,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -18,6 +16,7 @@ LushStories
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,16 +26,13 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 igromania
 interpals
@@ -44,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
