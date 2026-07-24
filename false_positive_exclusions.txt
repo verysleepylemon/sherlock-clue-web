@@ -4,17 +4,16 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Codolio
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,6 +29,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -43,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
