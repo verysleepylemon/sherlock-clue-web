@@ -29,7 +29,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
+Strava
 Trovo
 TryHackMe
 Velomania
@@ -43,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
