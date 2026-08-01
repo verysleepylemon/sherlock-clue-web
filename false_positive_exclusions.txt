@@ -4,7 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,6 +13,7 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
@@ -44,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
