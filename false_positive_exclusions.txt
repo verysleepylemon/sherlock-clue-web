@@ -31,8 +31,10 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
