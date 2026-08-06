@@ -7,8 +7,6 @@ Archive.org
 Blogger
 Chatujme.cz
 Codolio
-Cracked Forum
-Cults3D
 DeviantArt
 Discord.bio
 F3.cool
@@ -19,10 +17,12 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,12 +35,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
