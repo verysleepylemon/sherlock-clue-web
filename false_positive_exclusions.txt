@@ -7,8 +7,6 @@ Archive.org
 Blogger
 Chatujme.cz
 Codolio
-Cracked Forum
-DEV Community
 DeviantArt
 Discord.bio
 F3.cool
@@ -19,7 +17,9 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -42,6 +42,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
