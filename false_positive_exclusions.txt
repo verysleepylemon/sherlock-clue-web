@@ -4,25 +4,24 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,8 +34,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -51,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
