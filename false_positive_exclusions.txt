@@ -4,9 +4,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 F3.cool
@@ -17,11 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
+Minecraft
 Odysee
+Outgress
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,10 +34,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
