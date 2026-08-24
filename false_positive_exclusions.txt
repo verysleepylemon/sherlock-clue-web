@@ -4,10 +4,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 F3.cool
@@ -17,8 +15,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-LushStories
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -35,6 +32,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
