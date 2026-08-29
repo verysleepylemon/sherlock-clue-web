@@ -7,7 +7,6 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 F3.cool
@@ -17,9 +16,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LushStories
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -49,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
