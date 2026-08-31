@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -32,7 +33,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
