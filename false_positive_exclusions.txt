@@ -4,7 +4,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -17,9 +16,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -33,6 +34,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
