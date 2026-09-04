@@ -9,7 +9,6 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -33,7 +32,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
