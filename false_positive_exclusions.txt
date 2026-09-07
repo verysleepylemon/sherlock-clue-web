@@ -4,8 +4,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -18,14 +16,16 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 Sketchfab
@@ -33,7 +33,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
