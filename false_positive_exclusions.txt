@@ -4,7 +4,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -17,6 +16,7 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,7 +25,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 Sketchfab
@@ -33,7 +32,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -41,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
