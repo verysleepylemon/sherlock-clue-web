@@ -9,16 +9,12 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
-Flipboard
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
-Linktree
 LushStories
 ObservableHQ
 Odysee
@@ -28,6 +24,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 Sketchfab
@@ -35,7 +32,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
