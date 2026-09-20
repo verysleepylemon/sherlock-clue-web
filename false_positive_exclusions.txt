@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 CGTrader
 Championat
 Chatujme.cz
@@ -33,7 +34,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
