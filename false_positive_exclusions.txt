@@ -4,8 +4,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 CGTrader
 Championat
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -17,7 +19,6 @@ Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -51,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
