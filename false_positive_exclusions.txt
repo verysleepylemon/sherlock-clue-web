@@ -17,8 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
+LiveJournal
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,7 +41,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
