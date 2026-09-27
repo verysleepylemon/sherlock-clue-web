@@ -16,13 +16,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LibraryThing
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,6 +35,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
