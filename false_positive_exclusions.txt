@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -12,13 +13,13 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 LibraryThing
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -31,11 +32,12 @@ RocketTube
 Scribd
 Shelf
 Sketchfab
+Slashdot
 SlideShare
 Smule
+SourceForge
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
