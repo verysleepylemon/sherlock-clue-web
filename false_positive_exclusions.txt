@@ -4,13 +4,13 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 HackerNews
@@ -20,10 +20,10 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,10 +32,8 @@ RocketTube
 Scribd
 Shelf
 Sketchfab
-Slashdot
 SlideShare
 Smule
-SourceForge
 Splice
 Spotify
 Trovo
@@ -54,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
