@@ -4,16 +4,17 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -24,6 +25,7 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,6 +38,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
