@@ -4,17 +4,15 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -43,6 +41,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -55,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
