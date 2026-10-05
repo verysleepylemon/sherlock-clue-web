@@ -4,6 +4,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -19,7 +21,7 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -41,7 +43,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -54,4 +55,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
