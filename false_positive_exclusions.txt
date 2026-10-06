@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -21,7 +20,7 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
