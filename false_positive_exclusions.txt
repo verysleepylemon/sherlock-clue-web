@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -24,7 +25,6 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,6 +37,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 Trakt
 Trovo
 TryHackMe
