@@ -22,9 +22,11 @@ Instapaper
 LibraryThing
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,12 +39,12 @@ SlideShare
 Smule
 Splice
 Spotify
-Tenor
 Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
