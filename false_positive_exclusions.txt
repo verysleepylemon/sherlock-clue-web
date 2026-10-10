@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -13,7 +14,6 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 Giphy
-Google Play
 HackerNews
 Hashnode
 Houzz
@@ -22,6 +22,7 @@ Instapaper
 LibraryThing
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,7 +39,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
@@ -47,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
