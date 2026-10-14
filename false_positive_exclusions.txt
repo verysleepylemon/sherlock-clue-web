@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -18,10 +19,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LibraryThing
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,8 +39,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Status Cafe
-Trakt
 Trovo
 TryHackMe
 Velomania
