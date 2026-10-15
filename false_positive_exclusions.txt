@@ -4,8 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
+Audiojungle
 Championat
 Chatujme.cz
 Codolio
@@ -22,11 +21,9 @@ Instapaper
 LibraryThing
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -39,6 +36,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -54,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
