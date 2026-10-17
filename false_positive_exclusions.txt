@@ -4,14 +4,12 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -40,7 +38,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
