@@ -18,9 +18,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LibraryThing
 Linktree
+LiveJournal
 LushStories
 ObservableHQ
 Odysee
@@ -38,6 +38,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
