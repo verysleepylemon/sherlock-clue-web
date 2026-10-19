@@ -20,8 +20,8 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
-LiveJournal
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,8 +38,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -54,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
