@@ -21,9 +21,11 @@ Instapaper
 LibraryThing
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,6 +38,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
