@@ -10,24 +10,19 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 LibraryThing
 Linktree
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,7 +35,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -55,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
