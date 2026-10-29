@@ -2,11 +2,13 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -15,6 +17,8 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,12 +37,12 @@ TryHackMe
 Velomania
 Vero
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
