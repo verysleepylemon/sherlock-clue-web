@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -30,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Vero
@@ -44,4 +44,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
