@@ -16,6 +16,7 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,13 +30,13 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 interpals
