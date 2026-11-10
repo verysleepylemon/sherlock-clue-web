@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -21,7 +22,7 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -32,7 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TnAFlix
 TryHackMe
 Velomania
 Vero
@@ -47,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
