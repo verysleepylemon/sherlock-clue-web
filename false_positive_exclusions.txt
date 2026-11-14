@@ -13,10 +13,10 @@ HackerNews
 Hashnode
 Houzz
 Hubski
-Ifunny
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,6 +25,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
